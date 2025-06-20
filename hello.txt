@@ -1,0 +1,3 @@
+Ovo je fajl kojim testiramo sistem.
+
+123 proba
