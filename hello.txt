@@ -1,1 +1,3 @@
 Ovo je fajl kojim testiramo funkcionalnost.
+
+123 proba
